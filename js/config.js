@@ -16,7 +16,7 @@ $(function() {
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/liosc', newWindow: false},
+      { name: 'Github', href: 'https://github.com/', newWindow: false},
       { name: 'About'}
     ],
 
