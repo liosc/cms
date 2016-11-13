@@ -359,7 +359,7 @@ var CMS = {
         var errorMsg;
         if (CMS.settings.mode == 'Github') {
           errorMsg = 'Error loading ' + type + 's directory. Make sure ' +
-            'your Github settings are correctly set in your config.js file.';
+            'your Github settings are correctly set in your config.js file. Sorry';
         } else {
           errorMsg = 'Error loading the ' + type + 's directory. Make sure ' +
             'the ' + type + 's directory is set correctly in config and  ' +
