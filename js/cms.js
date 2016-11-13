@@ -11,7 +11,7 @@ var CMS = {
 
   settings: {
     siteName: 'CMS.js',
-    siteTagline: 'Your site tagline',
+    siteTagline: 'Site tagline',
     siteEmail: 'your_email@example.com',
     siteAuthor: 'Your Name',
     siteUrl: '',
